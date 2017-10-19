@@ -1,2 +1,2 @@
-# akshitbhalla.github.io
+# akshitbhalla.co
 Personal Website
