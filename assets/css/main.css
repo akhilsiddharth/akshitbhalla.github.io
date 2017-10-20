@@ -142,6 +142,10 @@
 			border-bottom-color: transparent;
 		}
 
+		a.symbol {
+			border-bottom: none;
+		}
+
 	strong, b {
 		font-weight: 400;
 	}
