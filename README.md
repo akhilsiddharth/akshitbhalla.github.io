@@ -1,5 +1,5 @@
 # akshitbhalla.co
 
-http://www.akshitbhalla.co
+https://akshitbhalla.co
 
 Personal Website
