@@ -287,6 +287,10 @@
 		color: #ffffff;
 	}
 
+	a.content-link:hover {
+		color: #ba7789;
+	}
+
 	strong, b {
 		color: #ffffff;
 	}
