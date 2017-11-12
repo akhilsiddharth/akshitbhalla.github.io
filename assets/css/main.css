@@ -89,6 +89,9 @@
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+	.bold-text {
+		font-weight:bold
+	}
 
 /* Type */
 
